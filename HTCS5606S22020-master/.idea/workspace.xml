@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b145c3a7-d69d-4aee-bc07-b13607f9a3ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jkTjbNFubdajPdQkZ7yPSmWiaq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phpAndDatabase/SessionExercise" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/phpAndDatabase/SessionExercise" />
+      <recent name="$PROJECT_DIR$/phpAndDatabase" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b145c3a7-d69d-4aee-bc07-b13607f9a3ce" name="Default Changelist" comment="" />
+      <created>1604347226378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604347226378</updated>
+      <workItem from="1604347227989" duration="3508000" />
+      <workItem from="1604432200187" duration="5914000" />
+      <workItem from="1604519052411" duration="5497000" />
+      <workItem from="1604533896144" duration="199000" />
+      <workItem from="1604545092435" duration="1000" />
+      <workItem from="1604865229823" duration="6589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604534043294">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="372" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.987@0.23.1920.987" timestamp="1604534043294" />
+    <state x="439" y="315" key="NewPhpFileDialog" timestamp="1604865505623">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="439" y="314" key="NewPhpFileDialog/0.23.1440.821/-1920.23.1920.1057@0.23.1440.821" timestamp="1604523802452" />
+    <state x="439" y="314" key="NewPhpFileDialog/0.23.1440.821@0.23.1440.821" timestamp="1604347511389" />
+    <state x="439" y="315" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1604865505623" />
+    <state x="129" y="23" key="SettingsEditor" timestamp="1604534008931">
+      <screen x="0" y="23" width="1920" height="987" />
+    </state>
+    <state x="97" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1604347493291" />
+    <state x="129" y="23" key="SettingsEditor/0.23.1920.987@0.23.1920.987" timestamp="1604534008931" />
+  </component>
+</project>
